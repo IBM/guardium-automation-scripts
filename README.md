@@ -14,13 +14,13 @@ are normal type of user.
 5. Update the user if required in failed_login_attempts. This could be any random name for the user
 
 6. There is config.ini file Here is the details of the params in the file.
-    loop_range: This is for setting the range for loopThreat.py file
-    failed_login_array: This is array of users passed to failed login users.
-    host: Database server Host 
-    database: Database name
-    port: Database server port
-    user: User with DBA permission
-    passwd: User password
+    1. loop_range: This is for setting the range for loopThreat.py file
+    2. failed_login_array: This is array of users passed to failed login users.
+    3. host: Database server Host 
+    4. database: Database name
+    5. port: Database server port
+    6. user: User with DBA permission
+    7. passwd: Password for user in point 6
 
 
 ## Run the script with following steps
