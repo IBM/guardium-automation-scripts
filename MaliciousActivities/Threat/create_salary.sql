@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS salary;
+create table salary(ssn varchar(40), first_name varchar(40), last_name varchar(40), base_sal int);
+insert into salary (ssn, first_name, last_name, base_sal) values ('123456789','Thu', 'Lett',78000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('543987556','Leah', 'Calvo',95000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('778524395','Boris', 'Fay',120000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('125948637','Johana', 'Relyea',130000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('6544932875','Debi','Winford', 78000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('193756824','Vernice','Corbin',97000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('485266791','Perry','',150000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('5978824631','Bella','Gastelum',140000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('164959728','Jordon','Polito',110000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('346596782','Irena','Bach',79000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('862495377','Ofir','Levy',125000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('953463735','Mara','Sherrard',88000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('613249578','Craig','Fullmer',92000);
+insert into salary (ssn, first_name, last_name, base_sal) values ('555196666','Mary','Popkins',92000);
