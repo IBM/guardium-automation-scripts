@@ -23,8 +23,8 @@ are normal type of user.
     passwd: User password
 
 
-## Run the script
+## Run the script with following steps
 
-Step1: Add the required details in config.ini
-Step2: cd MaliciousActivities/
-Step3: sh runMaliciousActivities.sh
+1. Add the required details in config.ini
+2. cd MaliciousActivities/
+3. sh runMaliciousActivities.sh
